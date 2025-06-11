@@ -78,7 +78,6 @@ Repository Structure
 │   └── auto_remediate.py
 ├── runbooks/                # Markdown runbooks
 │   └── EC2-CPU-High.md
-├── screenshots/             # Monitoring dashboard samples
 ├── README.md
 
 Getting Started
